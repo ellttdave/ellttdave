@@ -16,4 +16,4 @@ Checkout my featured project below:
 TypeScript • Next.js • React • Tailwind • Node.js • PostgreSQL • Prisma • pgvector • Anthropic • OpenAI
 
 ### 📫 Connect
-LinkedIn: linkedin.com/in/david-elliott-6304555q  • Email: ellttdave218@gmail.com
+LinkedIn: http://linkedin.com/in/david-elliott-6304555q  • Email: ellttdave218@gmail.com
