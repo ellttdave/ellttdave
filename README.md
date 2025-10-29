@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm David Elliott 👋
 
-<!--
-**ellttdave/ellttdave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Product Manager with 20 years of expeirence and deep prodduct expertise building SAAS, platoforms, and ecosystems to deliver complex solutions that deliver measurable busiiness outcomes at scale.
+I recentliy built a production app integrating:
+- LLM tool calling (Anthropic Claude)
+- RAG (OpenAI embeddings + pgvector)
+- Modern full‑stack (Next.js, TypeScript, Prisma, Neon)
 
-Here are some ideas to get you started:
+Checkout my featured project below:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Featured Project
+- Athlete Performance Analytics – LLM + RAG + MCP‑like architecture  
+  Repo: https://github.com/ellttdave/athlete-performance-platform-showcase
+
+### 🛠️ Stack
+TypeScript • Next.js • React • Tailwind • Node.js • PostgreSQL • Prisma • pgvector • Anthropic • OpenAI
+
+### 📫 Connect
+LinkedIn: linkedin.com/in/david-elliott-6304555q  • Email: ellttdave218@gmail.com
