@@ -14,7 +14,7 @@ This showcase project is a direct application of my professional experience, pro
 	•	Integrate Multi-Modal Data: Harmonize disparate, structured performance data with extensive knowledge bases to form a comprehensive single source of truth.
 	•	Apply AI for Clinical Insight: Deliver evidence-based reports and personalized recommendations by combining rigorous clinical standards with advanced machine learning models.
 	•	Drive Outcome-Based Strategy: Focus the product vision on actionable results, such as reducing injury risk and enhancing clinical decision-making for sports medicine professionals.
-This project underscores my capability to lead a product from concept through detailed requirements (as seen in the accompanying PRD) to a demonstrable, architecturally sound solution ready to meet the demands of any performance-critical environment. I am actively seeking a role where I can apply my platform scaling expertise to drive your next wave of product innovation.
+This project underscores my capability to lead a product from concept through detailed requirements to a demonstrable, architecturally sound solution ready to meet the demands of any performance-critical environment. I am actively seeking a role where I can apply my platform scaling expertise to drive your next wave of product innovation.
 
 
 ### Featured Project
