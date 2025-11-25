@@ -1,6 +1,6 @@
 David Elliott / ellttdave | Product & Platform Strategy
 
-My career is defined by successfully scaling complex platform technologies and transforming business challenges into enterprise-grade SaaS solutions. With over 16 years of experience, I specialize in the architecture, deployment, and management of systems that handle immense scale, operate under stringent regulatory demands, and process over $1+ billion annually.
+My career is defined by successfully scaling complex platform technologies and transforming business challenges into enterprise-grade SaaS solutions. With over 20 years of experience, I specialize in the architecture, deployment, and management of systems that handle immense scale, operate under stringent regulatory demands, and process over $1+ billion annually.
 I thrive at the intersection of sophisticated technology and user-centric design, having solved real-time complexity challenges across thousands of unique enterprise configurations. This has instilled in me a deep commitment to not just building features, but architecting innovative underlying systems that ensure long-term, sustainable product success.
 My focus is on three core pillars:
 	1	Platform Mastery: Architecting highly reliable, compliant, and scalable back-end services.
